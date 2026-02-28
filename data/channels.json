@@ -1,4 +1,53 @@
 {
-  "channels": {},
-  "botToken": ""
+  "channels": {
+    "taxi": {
+      "username": "@q8wer7tyu",
+      "inviteLink": "https://t.me/q8wer7tyu"
+    },
+    "delivery": {
+      "username": "ttta1230",
+      "inviteLink": "https://t.me/ttta1230"
+    },
+    "food": {
+      "username": "",
+      "inviteLink": ""
+    },
+    "vegetables": {
+      "username": "",
+      "inviteLink": ""
+    },
+    "rental": {
+      "username": "",
+      "inviteLink": ""
+    },
+    "goods": {
+      "username": "",
+      "inviteLink": ""
+    },
+    "repair": {
+      "username": "",
+      "inviteLink": ""
+    },
+    "electrician": {
+      "username": "",
+      "inviteLink": ""
+    },
+    "appliance": {
+      "username": "",
+      "inviteLink": ""
+    },
+    "store": {
+      "username": "",
+      "inviteLink": ""
+    },
+    "restaurant": {
+      "username": "",
+      "inviteLink": ""
+    },
+    "emergency": {
+      "username": "",
+      "inviteLink": ""
+    }
+  },
+  "botToken": "7091861211:AAHDmjyrNn7gsU_H1g8sCOqdryetggdEb0A"
 }
